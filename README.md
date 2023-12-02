@@ -16,31 +16,31 @@
 <table>
     <thead>
         <tr>
-            <th>Carga Horária</th>
-            <th>Nome do Certificado</th>
-            <th>Foto do Certificado</th>
+            <th align=center>Carga Horária</th>
+            <th align=center width=300px>Nome do Certificado</th>
+            <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>121 horas</td>
-            <td>Aprenda a Programar em Java com Orientação a Objetos</td>
-            <td><img src="imgs/certificado-OO-java.png" alt="Certificado 1"></td>
+            <td align=center>121 horas</td>
+            <td align=center>Aprenda a Programar em Java com Orientação a Objetos</td>
+            <td align=center><img width=600px src="imgs/certificado-OO-java.png" alt="Certificado Aprenda a Programar em Java com Orientação a Objetos"></td>
         </tr>
         <tr>
-            <td>30 horas</td>
-            <td>Integre Aplicações Java com Banco de Dados</td>
-            <td><img src="imgs/certificado-java-jdbc-jpa.png" alt="Certificado 2"></td>
+            <td align=center>30 horas</td>
+            <td align=center>Integre Aplicações Java com Banco de Dados</td>
+            <td align=center><img width=600px src="imgs/certificado-java-jdbc-jpa.png" alt="Certificado Integre Aplicações Java com Banco de Dados"></td>
         </tr>
         <tr>
-            <td>31 horas</td>
-            <td>Boas Práticas em Java</td>
-            <td><img src="imgs/certificado-java-solid.png" alt="Certificado 2"></td>
+            <td align=center>31 horas</td>
+            <td align=center>Boas Práticas em Java</td>
+            <td align=center><img width=600px src="imgs/certificado-java-solid.png" alt="Certificado Boas Práticas em Java"></td>
         </tr>
         <tr>
-            <td>34 horas</td>
-            <td>Java e Spring Boot</td>
-            <td><img src="imgs/certificado-java-spring-boot.png" alt="Certificado 2"></td>
+            <td align=center>34 horas</td>
+            <td align=center>Java e Spring Boot</td>
+            <td align=center><img width=600px src="imgs/certificado-java-spring-boot.png" alt="Certificado Java e Spring Boot"></td>
         </tr>
     </tbody>
 </table>
@@ -50,41 +50,41 @@
 <table>
     <thead>
         <tr>
-            <th>Carga Horária</th>
-            <th>Nome do Certificado</th>
-            <th>Foto do Certificado</th>
+            <th align=center>Carga Horária</th>
+            <th align=center width=300px>Nome do Certificado</th>
+            <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>51 horas</td>
-            <td>A Partir do Zero: Html e Css para Projetos Web</td>
-            <td><img src="imgs/certificado-html-css.png" alt="Certificado 2"></td>
+            <td align=center>51 horas</td>
+            <td align=center>A Partir do Zero: Html e Css para Projetos Web</td>
+            <td align=center><img width=600px src="imgs/certificado-html-css.png" alt="Certificado A Partir do Zero: Html e Css para Projetos Web"></td>
         </tr>
         <tr>
-            <td>60 horas</td>
-            <td>Desenvolva Aplicações Web com Javascript</td>
-            <td><img src="imgs/certificado-js-web.png" alt="Certificado 2"></td>
+            <td align=center>60 horas</td>
+            <td align=center>Desenvolva Aplicações Web com Javascript</td>
+            <td align=center><img width=600px src="imgs/certificado-js-web.png" alt="Certificado Desenvolva Aplicações Web com Javascript"></td>
         </tr>
         <tr>
-            <td>26 horas</td>
-            <td>Aplique Typescript no Front-end</td>
-            <td><img src="imgs/certificado-ts-2.png" alt="Certificado 2"></td>
+            <td align=center>26 horas</td>
+            <td align=center>Aplique Typescript no Front-end</td>
+            <td align=center><img width=600px src="imgs/certificado-ts-2.png" alt="Certificado Aplique Typescript no Front-end"></td>
         </tr>
         <tr>
-            <td>31 horas</td>
-            <td>Melhora sua Experiência de Desenvolvimento com Typescript</td>
-            <td><img src="imgs/certificado-ts-1.png" alt="Certificado 2"></td>
+            <td align=center>31 horas</td>
+            <td align=center>Melhore sua Experiência de Desenvolvimento com Typescript</td>
+            <td align=center><img width=600px src="imgs/certificado-ts-1.png" alt="Certificado Melhore sua Experiência de Desenvolvimento com Typescript"></td>
         </tr>
         <tr>
-            <td>56 horas</td>
-            <td>Explore o Framework Angular</td>
-            <td><img src="imgs/certificado-angular-1.png" alt="Certificado 2"></td>
+            <td align=center>56 horas</td>
+            <td align=center>Explore o Framework Angular</td>
+            <td align=center><img width=600px src="imgs/certificado-angular-1.png" alt="Certificado Explore o Framework Angular"></td>
         </tr>
         <tr>
-            <td>44 horas</td>
-            <td>Desenvolva Aplicações Escaláveis com Angular</td>
-            <td><img src="imgs/certificado-angular-2.png" alt="Certificado 2"></td>
+            <td align=center>44 horas</td>
+            <td align=center>Desenvolva Aplicações Escaláveis com Angular</td>
+            <td align=center><img width=600px src="imgs/certificado-angular-2.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
         </tr>
     </tbody>
 </table>
@@ -94,17 +94,12 @@
 <table>
     <thead>
         <tr>
-            <th>Carga Horária</th>
-            <th>Nome do Certificado</th>
-            <th>Foto do Certificado</th>
+            <th align=center>Carga Horária</th>
+            <th align=center>Nome do Certificado</th>
+            <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>121 horas</td>
-            <td>Aprenda a Programar em Java com Orientação a Objetos</td>
-            <td><img src="imgs/" alt="Certificado 1"></td>
-        </tr>
     </tbody>
 </table>
 
@@ -113,16 +108,11 @@
 <table>
     <thead>
         <tr>
-            <th>Carga Horária</th>
-            <th>Nome do Certificado</th>
-            <th>Foto do Certificado</th>
+            <th align=center>Carga Horária</th>
+            <th align=center>Nome do Certificado</th>
+            <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>121 horas</td>
-            <td>Aprenda a Programar em Java com Orientação a Objetos</td>
-            <td><img src="imgs/" alt="Certificado 1"></td>
-        </tr>
     </tbody>
 </table>
