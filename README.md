@@ -17,7 +17,7 @@
     <thead>
         <tr>
             <th align=center>Carga Horária</th>
-            <th align=center width=300px>Nome do Certificado</th>
+            <th align=center width=150px>Nome do Certificado</th>
             <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
@@ -42,6 +42,21 @@
             <td align=center>Java e Spring Boot</td>
             <td align=center><img width=600px src="imgs/certificado-java-spring-boot.png" alt="Certificado Java e Spring Boot"></td>
         </tr>
+         <tr>
+            <td align=center>8 horas</td>
+            <td align=center>Agilidade e DevOps: Um dia no Desenvolvimento de Software</td>
+            <td align=center><img width=600px src="imgs/certificado-agilidade-devops.png" alt="Certificado Java e Spring Boot"></td>
+        </tr>
+        <tr>
+            <td align=center>16 horas</td>
+            <td align=center>Persistência de Dados e Consultas</td>
+            <td align=center><img width=600px src="imgs/certificado-jpa-spring.png" alt="Certificado Java e Spring Boot"></td>
+        </tr>
+         <tr>
+            <td align=center>14 horas</td>
+            <td align=center>Trabalhando com Lambda e Streams</td>
+            <td align=center><img width=600px src="imgs/certificado-java-lambda-streams.png" alt="Certificado Java e Spring Boot"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -51,11 +66,16 @@
     <thead>
         <tr>
             <th align=center>Carga Horária</th>
-            <th align=center width=300px>Nome do Certificado</th>
+            <th align=center width=150px>Nome do Certificado</th>
             <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td align=center>14 horas</td>
+            <td align=center>HTTP: Entendendo a Web por de Baixo dos Panos</td>
+            <td align=center><img width=600px src="imgs/certificado-http.png" alt="Certificado A Partir do Zero: Html e Css para Projetos Web"></td>
+        </tr>
         <tr>
             <td align=center>51 horas</td>
             <td align=center>A Partir do Zero: Html e Css para Projetos Web</td>
@@ -95,11 +115,41 @@
     <thead>
         <tr>
             <th align=center>Carga Horária</th>
-            <th align=center>Nome do Certificado</th>
+            <th align=center width=150px>Nome do Certificado</th>
             <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td align=center>8 horas</td>
+            <td align=center>Git e GitHub: Estratégias de Ramificação e Pull Requests</td>
+            <td align=center><img width=600px src="imgs/certificado-git-1.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
+        <tr>
+            <td align=center>6 horas</td>
+            <td align=center>Git e GitHub: Controle e Compartilhe seu Código</td>
+            <td align=center><img width=600px src="imgs/certificado-git-2.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
+        <tr>
+            <td align=center>10 horas</td>
+            <td align=center>Docker: Criando e Gerenciando Containers</td>
+            <td align=center><img width=600px src="imgs/certificado-docker-1.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
+        <tr>
+            <td align=center>8 horas</td>
+            <td align=center>Kafka e Spring: Integrando Aplicações</td>
+            <td align=center><img width=600px src="imgs/certificado-kafka.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
+        <tr>
+            <td align=center>8 horas</td>
+            <td align=center>Microsserviços: Padrões de Projeto</td>
+            <td align=center><img width=600px src="imgs/certificado-microsservicos-1.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
+        <tr>
+            <td align=center>8 horas</td>
+            <td align=center>Microsserviços: Explorando os Conceitos</td>
+            <td align=center><img width=600px src="imgs/certificado-microsservicos-2.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -109,10 +159,25 @@
     <thead>
         <tr>
             <th align=center>Carga Horária</th>
-            <th align=center>Nome do Certificado</th>
+            <th align=center width=150px>Nome do Certificado</th>
             <th align=center>Foto do Certificado</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td align=center>25 horas</td>
+            <td align=center>Crie Ferramentas e Chatbots com a API da OpenAI</td>
+            <td align=center><img width=600px src="imgs/certificado-openai.png"></td>
+        </tr>
+        <tr>
+            <td align=center>230 horas</td>
+            <td align=center>Informática Avançada</td>
+            <td align=center><img width=600px src="imgs/certificado-informatica.png"></td>
+        </tr>
+        <tr>
+            <td align=center>240 horas</td>
+            <td align=center>Programador e Desenvolvedor Web</td>
+            <td align=center><img width=600px src="imgs/certificado-programador-dev-web.png"></td>
+        </tr>
     </tbody>
 </table>
