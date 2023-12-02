@@ -2,9 +2,16 @@
     <h1>Meus Certificados</h1>
 </div>
 
-<div align=center>
-    <h2>Back-end</h2>
-</div>
+<h1>Índices</h1>
+
+<ol>
+    <li><a href="#backend">Back-end</a></li>
+    <li><a href="#frontend">Front-end</a></li>
+    <li><a href="#devops">DevOps</a></li>
+    <li><a href="#outros">Outros</a></li>
+</ol>
+
+<h1 id="backend">Back-end ⚙️</h1>
 
 <table>
     <thead>
@@ -38,11 +45,7 @@
     </tbody>
 </table>
 
----
-
-<div align=center>
-    <h2>Front-end</h2>
-</div>
+<h1 id="frontend">Front-end 💻</h1>
 
 <table>
     <thead>
@@ -82,6 +85,44 @@
             <td>44 horas</td>
             <td>Desenvolva Aplicações Escaláveis com Angular</td>
             <td><img src="imgs/certificado-angular-2.png" alt="Certificado 2"></td>
+        </tr>
+    </tbody>
+</table>
+
+<h1 id="devops">DevOps ♾️</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Carga Horária</th>
+            <th>Nome do Certificado</th>
+            <th>Foto do Certificado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>121 horas</td>
+            <td>Aprenda a Programar em Java com Orientação a Objetos</td>
+            <td><img src="imgs/" alt="Certificado 1"></td>
+        </tr>
+    </tbody>
+</table>
+
+<h1 id="outros">Outros 🛠️</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Carga Horária</th>
+            <th>Nome do Certificado</th>
+            <th>Foto do Certificado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>121 horas</td>
+            <td>Aprenda a Programar em Java com Orientação a Objetos</td>
+            <td><img src="imgs/" alt="Certificado 1"></td>
         </tr>
     </tbody>
 </table>
