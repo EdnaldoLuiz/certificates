@@ -150,6 +150,16 @@
             <td align=center>Microsserviços: Explorando os Conceitos</td>
             <td align=center><img width=600px src="imgs/certificado-microsservicos-2.png" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
         </tr>
+        <tr>
+            <td align=center>7.5 horas</td>
+            <td align=center>Linux Para Desenvolvedores</td>
+            <td align=center><img width=600px src="imgs/certificado-linux.jpg" alt="Certificado Desenvolva Aplicações Escaláveis com Angular"></td>
+        </tr>
+        <tr>
+            <td align=center>8.5 horas</td>
+            <td align=center>Git e GitHub do básico ao avançado</td>
+            <td align=center><img width=600px src="imgs/certificado-git-e-github.jpg"></td>
+        </tr>
     </tbody>
 </table>
 
@@ -178,6 +188,21 @@
             <td align=center>240 horas</td>
             <td align=center>Programador e Desenvolvedor Web</td>
             <td align=center><img width=600px src="imgs/certificado-programador-dev-web.png"></td>
+        </tr>
+        <tr>
+            <td align=center>240 horas</td>
+            <td align=center>Programador e Desenvolvedor Web</td>
+            <td align=center><img width=600px src="imgs/certificado-programador-dev-web.png"></td>
+        </tr>
+        <tr>
+            <td align=center>6 horas</td>
+            <td align=center>Programador e Desenvolvedor Web</td>
+            <td align=center><img width=600px src="imgs/certificado-sql.jpg"></td>
+        </tr>
+        <tr>
+            <td align=center>7.5 horas</td>
+            <td align=center>Seguranças em Aplicsções Web</td>
+            <td align=center><img width=600px src="imgs/certificado-seguranca.jpg"></td>
         </tr>
     </tbody>
 </table>
