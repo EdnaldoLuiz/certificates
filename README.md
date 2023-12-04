@@ -4,14 +4,28 @@
 
 <h1>Índices</h1>
 
-<ol>
-    <li><a href="#backend">Back-end</a></li>
-    <li><a href="#frontend">Front-end</a></li>
-    <li><a href="#devops">DevOps</a></li>
-    <li><a href="#outros">Outros</a></li>
-</ol>
+<ul>
+    <li><strong><a href="#cursos">Cursos</a></strong></li>
+        <ul>
+            <li><a href="#backend">Back-end</a></li>
+            <li><a href="#frontend">Front-end</a></li>
+            <li><a href="#devops">DevOps</a></li>
+            <li><a href="#outros">Outros</a></li>
+        </ul>
+    </li>
+</ul>
 
-<h1 id="backend">Back-end ⚙️</h1>
+<ul>
+    <li><strong><a href="#bootcamps">Bootcamps</a></strong></li>
+</ul>
+
+---
+
+<div align=center>
+    <h1 id="cursos">Cursos</h1>
+</div>
+
+<h2 id="backend">Back-end ⚙️</h2>
 
 <table>
     <thead>
@@ -60,7 +74,7 @@
     </tbody>
 </table>
 
-<h1 id="frontend">Front-end 💻</h1>
+<h2 id="frontend">Front-end 💻</h2>
 
 <table>
     <thead>
@@ -109,7 +123,7 @@
     </tbody>
 </table>
 
-<h1 id="devops">DevOps ♾️</h1>
+<h2 id="devops">DevOps ♾️</h2>
 
 <table>
     <thead>
@@ -163,7 +177,7 @@
     </tbody>
 </table>
 
-<h1 id="outros">Outros 🛠️</h1>
+<h2 id="outros">Outros 🛠️</h2>
 
 <table>
     <thead>
@@ -190,19 +204,52 @@
             <td align=center><img width=600px src="imgs/certificado-programador-dev-web.png"></td>
         </tr>
         <tr>
-            <td align=center>240 horas</td>
-            <td align=center>Programador e Desenvolvedor Web</td>
-            <td align=center><img width=600px src="imgs/certificado-programador-dev-web.png"></td>
-        </tr>
-        <tr>
-            <td align=center>6 horas</td>
-            <td align=center>Programador e Desenvolvedor Web</td>
-            <td align=center><img width=600px src="imgs/certificado-sql.jpg"></td>
-        </tr>
-        <tr>
             <td align=center>7.5 horas</td>
             <td align=center>Seguranças em Aplicsções Web</td>
             <td align=center><img width=600px src="imgs/certificado-seguranca.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+<div align=center>
+    <h1 id="bootcamps">Bootcamps</h1>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th align=center>Carga Horária</th>
+            <th align=center width=150px>Nome do Certificado</th>
+            <th align=center>Foto do Certificado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align=center>91 horas</td>
+            <td align=center>Potência Tech powered by IFood - Java Beginners</td>
+            <td align=center><img width=600px src="imgs/bootcamp-potencia-tech.webp"></td>
+        </tr>
+        <tr>
+            <td align=center>87 horas</td>
+            <td align=center>Orange Tech + | BackEnd</td>
+            <td align=center><img width=600px src="imgs/bootcamp-orange-tech.webp"></td>
+        </tr>
+        <tr>
+            <td align=center>35 horas</td>
+            <td align=center>Programação Reativa com Spring WebFlux</td>
+            <td align=center><img width=600px src="imgs/bootcamp-spring-reativo.webp"></td>
+        </tr>
+        <tr>
+            <td align=center>5 horas</td>
+            <td align=center>Descubra a Nuvem AWS - LocalizaLabs</td>
+            <td align=center><img width=600px src="imgs/bootcamp-descubra-aws.webp"></td>
+        </tr>
+        <tr>
+            <td align=center>68 horas</td>
+            <td align=center>Protência Tech IFood - Programação do Zero</td>
+            <td align=center><img width=600px src="imgs/bootcamp-programacao-do-zero-js.webp"></td>
         </tr>
     </tbody>
 </table>
