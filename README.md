@@ -205,7 +205,7 @@
         </tr>
         <tr>
             <td align=center>7.5 horas</td>
-            <td align=center>Seguranças em Aplicsções Web</td>
+            <td align=center>Seguranças em Aplicações Web</td>
             <td align=center><img width=600px src="imgs/certificado-seguranca.jpg"></td>
         </tr>
     </tbody>
@@ -250,6 +250,11 @@
             <td align=center>68 horas</td>
             <td align=center>Protência Tech IFood - Programação do Zero</td>
             <td align=center><img width=600px src="imgs/bootcamp-programacao-do-zero-js.webp"></td>
+        </tr>
+        <tr>
+            <td align=center>68 horas</td>
+            <td align=center>Desenvolvimento Frontend com Angular</td>
+            <td align=center><img width=600px src="imgs/bootcamp-angular.webp"></td>
         </tr>
     </tbody>
 </table>
