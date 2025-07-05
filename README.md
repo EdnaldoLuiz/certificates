@@ -44,6 +44,7 @@
   <img src="imgs/certificado-ts-1.png" width="300px">
   <img src="imgs/certificado-angular-1.png" width="300px">
   <img src="imgs/certificado-angular-2.png" width="300px">
+    <img src="imgs/certificado-oracle-alura.png" width="300px">
 </div>
 
 ---
