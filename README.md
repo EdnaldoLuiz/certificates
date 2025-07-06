@@ -16,9 +16,9 @@
     - [Alura](#frontend-alura)
     - [Rocketseat](#frontend-rocketseat)
   - [IA](#ia)
-    - []
   - [DevOps](#devops)
   - [AWS](#aws)
+    - [Escola da Nuvem](#escola-da-nuvem)
     - [Método ADVC](#método-advc)
   - [Outros](#outros)
     - [UltraCursos](#ultra-cursos)
@@ -104,6 +104,11 @@
 ### <span id="aws">AWS ☁️</span>
 
 <div align="center">
+  <h3 id="escola-da-nuvem">Escola da Nuvem</h3>
+  <img src="imgs/certificado-escola-da-nuvem.png" width="300px">
+</div>
+
+<div align="center">
   <h3 id="método-advc">Método ADVC</h3>
   <img src="imgs/certificado-ADVC.png" width="300px">
   <img src="imgs/certificado-ADVC-snowball.png" width="300px">
@@ -117,8 +122,8 @@
   <h3 id="ultra-cursos">Ultra Cursos</h3>
   <img src="imgs/certificado-informatica.png" width="300px">
   <img src="imgs/certificado-programador-dev-web.png" width="300px">
-  <img src="imgs/certificado-seguranca.jpg" width="300px">
-  <img src="imgs/certificado-openai.png" width="300px">
+  <!-- <img src="imgs/certificado-seguranca.jpg" width="300px">
+  <img src="imgs/certificado-openai.png" width="300px"> -->
 </div>
 
 ---
