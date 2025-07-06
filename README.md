@@ -29,6 +29,16 @@
 ---
 
 <div align="center">
+  <h1 id="diplomas">Diplomas 🎓</h1>
+</div>
+
+<div align="center">
+  <img src="imgs/diplomas/diploma-ADS.png" width="300px">
+</div>
+
+---
+
+<div align="center">
   <h1 id="certificações">Certificações 🎓</h1>
 </div>
 
