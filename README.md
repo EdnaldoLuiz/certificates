@@ -8,6 +8,8 @@
 
 ## Índice
 
+- [Diplomas](#diplomas)
+- [Certificações](#certificações)
 - [Cursos](#cursos)
   - [Back-end](#backend)
     - [Alura](#backend-alura)
@@ -23,7 +25,17 @@
   - [Outros](#outros)
     - [UltraCursos](#ultra-cursos)
 - [Bootcamps](#bootcamps)
-- [Certificações](#certificações)
+
+---
+
+<div align="center">
+  <h1 id="certificações">Certificações 🎓</h1>
+</div>
+
+<div align="center">
+  <img src="imgs/certificacoes/aws-cp.png" width="200px">
+  <img src="imgs/certificacoes/oracle.png" width="200px">
+</div>
 
 ---
 
@@ -142,12 +154,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <h1 id="certificações">Certificações 🎓</h1>
-</div>
-
-<div align="center">
-  <img src="imgs/certificacoes/aws-cp.png" width="200px">
-  <img src="imgs/certificacoes/oracle.png" width="200px">
-</div>
